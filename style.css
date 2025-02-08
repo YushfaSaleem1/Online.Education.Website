@@ -1,0 +1,212 @@
+.section1{
+    display: flex;
+}
+a{
+    text-decoration: none;
+}
+.section1{
+    padding-top: 10px;
+}
+.navbar{
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 40%;
+}
+.book-store{
+   font-size: large;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   display: flex;
+   margin-top: -30px;
+   margin-left: 50px;
+}
+.bookstore{
+   max-width: 40px;
+}
+.aboutus , .courses , .ourservices , .contactus , .signin{
+    margin-left: 40px;
+    color: black; 
+}
+.aboutus:hover , .courses:hover , .ourservices:hover , .contactus:hover , .signin:hover{
+ color: red;
+ text-decoration: underline wavy orange;
+}
+.home{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.signin{
+    width: 80px;
+    background-color: blanchedalmond;
+    border: 1px 1px black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.heading{
+   margin-top: 50px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 30px;
+   text-decoration: underline wavy rgb(190, 197, 95);
+}
+.heading1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    margin-top: -10px;
+    text-decoration: underline wavy rgb(190, 197, 95);
+ }
+ .objects{
+    margin-left: 40%;
+    max-width: 50em;
+    margin-top: -20%;
+ }
+ .para{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .continue{
+    background-color: purple;
+    color: white;
+    width: 7em; height: 2em;
+    margin-left: 90px;
+    border-radius: 8px;
+ }
+ .search , .continue{
+    margin-top: 40px;
+ }
+ .three{
+    display: flex;
+    padding-top: 30px;
+    margin-top: 5em;
+    color: white;
+    background-color: rgb(72, 44, 109);
+    gap: 100px;
+ }
+.font{
+    margin-left: 5em;
+    margin-top: -60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.font1{
+    margin-left: 6em;
+    font-size: small;
+    font-family: serif;
+}
+.grey{
+    color: grey;
+    font-size: small;
+}
+.course{
+    background-color: orangered;
+    color: white;
+    border-radius: 10px;
+    margin-left: 150px;
+}
+.course:hover{
+    background-color: purple;
+}
+.line{
+    color: grey;
+    font-size: 12px;
+    margin-top: -15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.div1{
+    background-color: rgb(212, 209, 209);
+    padding: 30px;
+    border-radius: 20px;
+}
+.row{
+    gap: 30px;
+    display: flex;
+}
+.one{
+    height: 100% ;
+    width: 100%;
+}
+.big{
+    font-size: 20px;
+}
+.girl{
+    height: 30em;
+}
+.all{
+    margin-left: 35em;
+    margin-top: -25em;
+}
+.puzzle{
+    background-color: purple;
+    width: 3em;
+    padding: 10px;
+}
+.lines{
+    margin-top: -90px;
+    margin-left: 100px;
+}
+.head-1{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.head-1:hover{
+    color: rgb(238, 56, 56);
+}
+.para-1{
+    color: grey;
+}
+.head-2{
+    margin-top: 13em;
+}
+.div-2{
+    padding: 20px;
+    background-color: rgb(241, 231, 218);
+}
+.all-1{
+    margin-left: 80px;
+    display: flex;
+    gap: 80px;
+}
+.part{
+    color: grey;
+}
+.part-1 , .part-2{
+    margin-top: -5px;
+    font-size: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.part-2{
+    color: grey;
+}
+.head-3{
+     margin-top: 2em;
+}
+.prof-1{
+    display: flex;
+}
+.subscribe{
+   margin-top: 40px;
+   width: 100%;
+}
+.books{
+    height: 20px;
+    margin-left: 20px;
+}
+.do{
+    display: inline;
+    margin-left: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.single{
+    margin-top: -120px;
+}
+.do-1 , .do-2 , .do-3 ,.do-4{
+    display: inline;
+}
+.mongo , .mongo-1 , .mongo-2{
+    margin-top: 10px;
+    color: grey;
+}
+.mongo-3{
+     margin-top: -12px;
+     color: grey;
+}
+.reserve{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: small;
+}
